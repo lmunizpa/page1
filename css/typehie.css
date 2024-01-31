@@ -1,0 +1,474 @@
+
+/* css doc */
+
+.playfair-display{
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+    }
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+.lato-thin {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .lato-thin-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .emp{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 20pt;
+  }
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .lato-black-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+.yellow-col {
+    padding-top: 15px; 
+    padding-left: 15px;
+    text-align: left;
+}
+.brown-col {
+    padding-top: 15px;
+    padding-left: 15px;
+    text-align: left;
+}
+.card-text{
+    text-align: left;
+}
+.nav-aria-color{
+    font-weight: bold;
+    color: antiquewhite !important;
+}
+.navbar-color {
+    background-color: cornflowerblue !important;
+}
+.nav-link{
+    color: black;
+}
+.navbar-toggler{
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
+
+.footer-blue{
+    background-color: aliceblue;
+}
+
+.btn-primary{
+    background-color: darkgoldenrod;
+    border-color:darkgoldenrod ;
+}
+.btn-primary:hover{
+    background-color: rgb(32, 50, 90);
+}
+
+.prev{
+    background-color: brown;
+    block-size: 50px;
+    text-align: center;
+}
+.imgs-size{
+    max-height: 400px;
+}
+.title{
+    font-family: "Playfair Display";
+    font-size: 30pt;
+
+}
+.heading1{
+    font-family: "Playfair Display";
+    font-size: 40pt;
+}
+.heading2{
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+    font-size: 35pt;
+    font-size: 48.832/3.052rem;
+}
+.heading3{
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 25pt;
+    font-size: 39.056/2.441rem;
+}
+.heading4{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 15pt;
+    font-size: 31.25/1.953rem;
+}
+.section1{
+    padding: 10px;
+}
+/*Playfair Font Customization*/
+.playhead1{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16pt/1rem;
+}
+/*Playfair Font Customization*/
+.subtext{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 16pt/1rem;
+    color: gray;
+}
+.inlink {
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 20pt;
+}
+.inlink2 {
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 14pt;
+}
+/*khand and EB*/
+.khand-light {
+    font-family: "Khand", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .khand-regular {
+    font-family: "Khand", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .khand-medium {
+    font-family: "Khand", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .khand-semibold {
+    font-family: "Khand", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .khand-bold {
+    font-family: "Khand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .eb-garamond-light {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font: weight 100px;;
+    font-style: normal;
+  }
+  .eb-garamond-semi-bold {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+  }
+  .eb-garamond-bold {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+  .eb-garamond-extra {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+  }
+  .eb-garamond-regular {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+  /* Formatting Khand */
+  .title2{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+.heading01{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size:61.04px/ 3.815rem;
+}
+.heading02{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size:48.832px/ 3.052rem;
+}
+.heading03{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    font-size:39.06px/ 2.441rem ;
+}
+.heading04{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+    font-size:31.25px/ 1.953rem ;
+}
+.playhead01{
+    font-family: "Khand", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+/*Khand Font Customization*/
+.subtext2{
+    font-family: "Khand", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: gray;
+}
+.inlink3 {
+    font-family:"Khand", sans-serif;
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 20pt;
+}
+.inlink4 {
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 14pt;
+}
+.emp2{
+    font-family: "Khand", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+ /* Formatting Poppins */
+ .title00{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.heading001{
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size:61.04px/3.815rem;
+}
+.heading002{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size:48.83px/3.052rem;
+}
+.heading003{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size:39.1px/2.441rem;
+}
+.heading004{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size:31.248px/1.953rem;
+}
+.playhead001{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px/1rem;
+}
+.playhead0001{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px/1rem;
+}
+/*Playfair Font Customization*/
+.subtext00{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: gray;
+}
+.inlink5 {
+    font-family: "Poppins", sans-serif;
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 20pt;
+}
+.inlink6 {
+    font-family: "Poppins", sans-serif;
+    text-underline-position: below;
+    color: cornflowerblue;
+    font-size: 14pt;
+}
+.emp00{
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
